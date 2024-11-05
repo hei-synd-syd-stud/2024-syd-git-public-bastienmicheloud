@@ -35,3 +35,23 @@ Les fichiers sont revenus comme lors de l'initial commit quand on a checkout sur
 ### Task 7
 
 ![Gitgraph](img/gitgraph.svg)
+
+1. develop : nom de la branche. C'est une branche distincte de main.
+
+2. Hash du commit : L'identifiant du commit
+
+3. Message du merge : Indique que la branche feature-auth à été  fusionnée avec develop
+
+4. Auteur du commit : C'est ByteMe Bob qui a effectué le merge.
+
+5. Dernière version du main, version actuelle du main
+
+6. Megre de feature-auth avec develop
+
+7. Checkout de feature-auth depuis main
+
+8. Merge de la branche develop avec main
+
+9. Checout de la branche develop depuis main
+
+10. Initial commit
