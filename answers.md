@@ -28,6 +28,8 @@ Cette ligne envoie les informations des différents commits. La première chaîn
 
 ### Task 6
 
+Les fichiers sont revenus comme lors de l'initial commit quand on a checkout sur l'initial. Et ils sont revenus comme on était quand on a checkout sur le dernier commit.
+
 ## Gitgraph
 
 ### Task 7
